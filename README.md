@@ -16,7 +16,7 @@ Des commands de Modération, jeux, mise à niveau, utilité. Protégez votre ser
 
 Installation can be quick and easy through Heroku (one-click deployment, [see video](https://www.youtube.com/watch?v=NwPcXBvStSI)). A multi-architecture Docker image is also provided for the Docker people.
 
-[![Deploy](https://nekohost.fr/assets/images/logoinfo3.png)](https://nekohost.fr/)
+[![Deploy](https://nekohost.fr/assets/images/logoinfo5.png)](https://nekohost.fr/)
 
 Installations have been written for:
 
