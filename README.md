@@ -10,15 +10,13 @@
 
 # About
 
-This is a powerful twitter bot for discord. It allows you to follow up to 5000 Twitter users, track 400 words and 25 location boxes posting the content to as many Discord channels as you want. Furthermore you can customize which tweets to show.
-
-[**Read the documentation**](http://nntin.github.io/discord-twitter-bot/about/)
+Des commands de Modération, jeux, mise à niveau, utilité. Protégez votre serveur des raids, configurez des déclencheurs de mots personnalisés, lancez les dés, recherchez des anime et consultez les graphiques de crypto-monnaie. Tout est intégré.
 
 # Installation
 
 Installation can be quick and easy through Heroku (one-click deployment, [see video](https://www.youtube.com/watch?v=NwPcXBvStSI)). A multi-architecture Docker image is also provided for the Docker people.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://nekohost.fr/assets/images/logoinfo.png)](https://nekohost.fr/)
 
 Installations have been written for:
 
