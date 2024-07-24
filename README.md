@@ -2,7 +2,7 @@
 <p align="center">Un bot pour tout.</p>
 
 <p align="center">
-  <a href="https://discord.gg/Dkg79tc"><img alt="Invite Link" src="https://discordapp.com/api/guilds/1217522547806048327/widget.png?style=shield"></a>
+  <a href="https://discord.gg/TQ9X5q9y25"><img alt="Invite Link" src="https://discordapp.com/api/guilds/1217522547806048327/widget.png?style=shield"></a>
   <a href="https://github.com/ayka667/Kaya/blob/master/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-brightgreen.svg"></a>
   <a href="https://github.com/ayka667/Kaya"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
   <a href="https://github.com/ayka667/Kaya/commits/"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/nntin/discord-twitter-bot.svg"></a>
