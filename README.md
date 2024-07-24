@@ -15,4 +15,6 @@ Des commands de Modération, jeux, mise à niveau, utilité. Protégez votre ser
 # Installation
 
 L'installation peut être rapide et facile grâce à NekoHost (déploiement en quelque clics).
+
+
 [![Deploy](https://nekohost.fr/assets/images/logoinfo5.png)](https://nekohost.fr/)
